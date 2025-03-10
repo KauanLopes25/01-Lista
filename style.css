@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  h1{
+    color: red;
+    background-color: black;
+    text-align: center;
+    padding: 16px;
+    margin: 16px;
+    font-size: 48px;
+  }
+  img{
+    width: 400px;
+  }
+  h2{
+    color : purple;
+    margin: 16px;
+  }
+  ul{
+    margin: 16px;
+    color: green;
+    list-style: none;
+    background-color: tomato;
+  }
+  li{
+    margin: 8px;
+    background-color: yellow;
+   
+  }
+  li:hover{
+    background-color: blue;
+  }
+  button{
+    width: 100px;
+    height: 50px;
+    font-size: 32px;
+    margin: 16px;
+  }
+  button:hover{
+    color: white;
+    background-color: black;
+  }
