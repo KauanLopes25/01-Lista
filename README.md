@@ -1,6 +1,6 @@
 # 01-Lista
 
-![](./Preview/Captura%20de%20Tela%202025-03-10%20às%2008.49.26.png)
+![](./Preview//image.png)
 
 Primeira página criada, com o objetivo de obter familiarização com HTML e CSS, desenvolvido nas aulas de diciplina linguagem de marcação na escola SENAI Jandira.
 
